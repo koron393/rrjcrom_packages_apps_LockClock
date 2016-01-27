@@ -27,3 +27,7 @@
 -dontwarn org.apache.http.**
 -dontwarn android.support.**
 -dontwarn com.google.android.gms.**
+-dontwarn android.webkit.WebView
+-dontwarn android.webkit.WebViewClient
+-dontwarn android.net.http.SslCertificate
+-dontwarn android.net.http.SslError
